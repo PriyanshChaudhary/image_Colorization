@@ -1,1 +1,4 @@
 for lateral purposes
+Opening a pull request with links to a Google Doc should suffice. In case you want to help more, read on.
+
+All proposals need to be in Github flavored markdown format. If you have a Google Doc, conversion should be pretty straightforward using pandoc
